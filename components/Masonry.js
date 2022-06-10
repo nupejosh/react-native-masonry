@@ -1,4 +1,5 @@
-import { View, ListView, Image, Text, Dimensions } from 'react-native';
+import { View, Image, Text, Dimensions } from 'react-native';
+import ListView from "deprecated-react-native-listview";
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Task from 'data.task';
